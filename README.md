@@ -30,39 +30,39 @@ In this lab I am going to create an Active Directory home lab environment using 
 
 <p align="center">
 Server Manager Dashboard: You can see what I have set up <br/>
-<img src="https://imgur.com/Z0PQkqU" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Z0PQkqU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Active Directory Domain Services: Showcasing the domain created <br/>
-<img src="https://imgur.com/L8JSUTc" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/L8JSUTc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Network: I set up an external and internal network  <br/>
-<img src="https://imgur.com/DiZ6QkK" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DiZ6QkK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Network: Clients have a private network  <br/>
-<img src="https://imgur.com/undefined" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XR6rUPk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Active Directory: You will see admins, users, and computers connected to the domain <br/>
-<img src="https://imgur.com/EXr1umJ" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EXr1umJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Client: Shows lease expiration (can change depending who the clients are) <br/>
-<img src="https://imgur.com/CaHZk9M" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CaHZk9M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 PowerShell: Script to create 1,000 users <br/>
-<img src="https://imgur.com/WfOtKdz" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WfOtKdz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br />
 <br />
-Usernmaes and passwords created  <br/>
-<img src="https://imgur.com/Ot3crRy" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Usernames and passwords created  <br/>
+<img src="https://i.imgur.com/Ot3crRy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Client: User can log on using the domain, while having access to the internet on a private network <br/>
-<img src="https://imgur.com/undefined" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3Bp4POe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
